@@ -1,0 +1,14 @@
+/node_modules
+/public/hot
+/public/storage
+/public/pages
+/storage/logs/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+.env
+.xlsx
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+.vscode/*
+storage/app
