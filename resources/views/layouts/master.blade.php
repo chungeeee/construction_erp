@@ -215,7 +215,7 @@ var blinkMsgTot;
 @endphp
 
 @if(env('APP_ENV')!='local')
-<script src="{{ $SOKET_HOST }}:6001/socket.io/socket.io.js"></script>
+<script src="http://erp.chungeeee.com:6001/socket.io/socket.io.js"></script>
 <script src="{{ url('/js/laravel-echo-setup.js') }}" type="text/javascript"></script>
 @endif
 
