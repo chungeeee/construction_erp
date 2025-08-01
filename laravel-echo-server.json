@@ -1,5 +1,5 @@
 {
-	"authHost": "https://erp.chungeeee.com",
+	"authHost": "http://erp.chungeeee.com",
 	"authEndpoint": "/broadcasting/auth",
 	"clients": [
 		{
@@ -20,7 +20,7 @@
 	"devMode": true,
 	"host": null,
 	"port": "6001",
-	"protocol": "https",
+	"protocol": "http",
 	"socketio": {},
 	"secureOptions": 67108864,
 	"sslCertPath": "",
@@ -33,7 +33,7 @@
 	},
 	"apiOriginAllow": {
 		"allowCors": true,
-		"allowOrigin": "https://erp.chungeeee.com/",
+		"allowOrigin": "http://erp.chungeeee.com/",
 		"allowMethods": "POST",
 		"allowHeaders": "Origin, Content-Type, X-Auth-Token, X-Requested-With, Accept, Authorization, X-CSRF-TOKEN, X-Socket-Id"
 	}
